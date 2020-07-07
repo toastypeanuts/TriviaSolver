@@ -1,4 +1,4 @@
-# toasty
+# Trivia Solver
 Used a phone mirror program to mirror my iPhone to my pc.
 From there I used a screenshotting tool that knew the exact dimensions of the screen to capture based on the phone being mirrored.
 Used watchdog to watch a folder where the screenshot automatically went through and immediately ran OCR on it.
