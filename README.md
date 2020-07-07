@@ -5,4 +5,4 @@ Used watchdog to watch a folder where the screenshot automatically went through 
 Parsed the questions and answers and ran it through a algorithm that scraped a google web search and calculated the answers based on a confidence level
 
 Overall a really fun project to try to solve trivia questions on a super popular app.
-Borderline impossible for me to get 100% accuracy without some kind of advanced machine learning and/or natural language processing.
+Borderline impossible for me to get 100% accuracy without some kind of machine learning and/or natural language processing.
